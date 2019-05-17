@@ -7,7 +7,7 @@
 
   "manifest_version": 2,
   "name": "Pinned Indeed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Go to the pinned Indeed.com tab. If it doesn't exist, it's created.",
 
   "icons": {
@@ -16,8 +16,7 @@
   },
   
   "permissions": [
-    "tabs",
-    "https://www.indeed.com/*"
+    "tabs"
   ],
 
   "browser_action": {
