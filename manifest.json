@@ -16,8 +16,7 @@
   },
   
   "permissions": [
-    "tabs",
-    "https://www.indeed.com/*"
+    "tabs"
   ],
 
   "browser_action": {
